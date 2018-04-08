@@ -2,9 +2,11 @@ body {
   margin: 0;
   font-family: Helvetica;
   text-align: center;
-  font-weight: 100;
 }
 
+h1 {
+  font-weight: 100;
+}
 #logo {
   height: 80px;
   width: 80px;
